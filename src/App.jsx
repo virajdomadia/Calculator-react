@@ -1,7 +1,7 @@
 import styles from "./App.module.css";
 
-import Display from "./components/display";
-import ButtonContainer from "./components/ButtonContainer";
+import Display from "./components/display.jsx";
+import ButtonContainer from "./components/ButtonContainer.jsx";
 import { useState } from "react";
 
 function App() {
